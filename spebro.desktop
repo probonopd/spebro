@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Spebro
+Comment=A aria2 GUI client for Linux
+Exec=spebro
+Icon=spebro
+Categories=Network;
